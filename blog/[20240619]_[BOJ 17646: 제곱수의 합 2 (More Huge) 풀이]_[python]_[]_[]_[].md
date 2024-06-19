@@ -242,4 +242,4 @@ if __name__ == '__main__':
 
 ```
 
-![Untitled](/img/BOJ 17646: 제곱수의 합 2 (More Huge) 풀이 img 0.png)
+![Untitled](https://raw.githubusercontent.com/ds5105119/weniv_blog/main/img/BOJ%2017646%3A%20%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%20%ED%95%A9%202%20(More%20Huge)%20%ED%92%80%EC%9D%B4%20img%200.png)
