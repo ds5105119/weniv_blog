@@ -9,9 +9,7 @@
 
 [Miller-Rabin 소수 판별법](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)과, [폴라드 로 알고리즘](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm)을 사용하기 때문에 두 알고리즘은 위키피디아를 참조하면 된다.
 
-### 두 개의 제곱수로 분리하는 알고리즘
-
----
+## 두 개의 제곱수로 분리하는 알고리즘
 
 페르마의 두 제곱수 정리(🔗[위키피디아 링크](https://en.wikipedia.org/wiki/Fermat%27s_theorem_on_sums_of_two_squares))는 홀수 소수 $p$에 대해 $p ≡ 1 \pmod 4$와 $p = x^2 + y^2$인 정수 $x, y$가 존재한다는 조건은 동치라는 것이다.
 
@@ -63,9 +61,7 @@ def div_prime(p):
   return sq_value
 ```
 
-### 문제 솔루션
-
----
+## 문제 솔루션
 
 라그랑주의 네 제곱수 정리에 따르면 $n, k \in \mathbb{Z}^+ \cup \{0\}$에 대하여 $4^n(8k + 7)$ 은 세 제곱수로 나타낼 수 없다.
 
